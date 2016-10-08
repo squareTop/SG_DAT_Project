@@ -1,6 +1,8 @@
-This is my GA project
+_This is my GA project_
 
-# READ ME
+Please remember to pull.
+
+# === READ ME FILE ===
 ## 8th October 2016
 
 *By*
