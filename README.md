@@ -39,5 +39,5 @@ Script #2 performs..
 
 
 *By*
-_Andrew Loone_
-13 Oct 2016
+*Andrew Loone*
+**13 Oct 2016**
