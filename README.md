@@ -1,9 +1,43 @@
 _This is my GA project_
 
-Please remember to pull.
+====== READ ME FILE ======
 
-# === READ ME FILE ===
-## 8th October 2016
+# Simply RED
+
+This project aims to..
+
+## Getting Started
+
+Deployment Notes: 
+
+### Pre-requisites
+
+Download and Install the following.
+
+### Installation Guides
+
+Url link
+
+## Running Tests
+
+Run the scripts provided.
+
+### Scripts to run:
+
+Script #1 checks..
+Script #2 performs..
+
+#### Additional Notes
+
+#### Built With
+
+#### Version
+
+#### Authors
+
+#### Acknowledgements
+
 
 *By*
 _Andrew Loone_
+13 Oct 2016
